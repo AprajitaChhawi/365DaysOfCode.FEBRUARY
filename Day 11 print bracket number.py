@@ -3,7 +3,6 @@ class Solution:
 	def barcketNumbers(self, S):
 	    count=0
 	    k=[]
-	    a=set()
 	    l=[]
 	    for i in S:
 	        if i=='(':
